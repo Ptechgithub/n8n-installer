@@ -41,7 +41,8 @@ bash <(curl -fsSL https://raw.githubusercontent.com/Ptechgithub/n8n-installer/ma
 - توقف و حذف کانتینرهای n8n
 - حذف کامل دایرکتوری نصب n8n (`n8n-docker/`)
 
-- بعد از نصب از طریق لینک ها وارد صفحه ی لاگین بشید و اکانت ادمین رو بسازید از طریق بخش setting  و users میتونید کاربر جدید با email تعریف کنید. 
+---
+ بعد از نصب از طریق لینک ها وارد صفحه ی لاگین بشید و اکانت ادمین رو بسازید از طریق بخش setting  و users میتونید کاربر جدید با email تعریف کنید. 
 ## سورس کد n8n
 
 GitHub: [https://github.com/n8n-io/n8n](https://github.com/n8n-io/n8n)
