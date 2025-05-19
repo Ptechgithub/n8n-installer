@@ -30,6 +30,8 @@ line() {
 
 # Show menu
 show_menu() {
+    echo -e "${CYAN}By --> Peyman * Github.com/Ptechgithub * ${RESET}"
+    echo ""
 	clear
 	echo -e "${YELLOW}╔══════════════════════════════════════════╗${RESET}"
 	echo -e "${YELLOW}║${CYAN}            n8n Installer Menu            ${YELLOW}║${RESET}"
