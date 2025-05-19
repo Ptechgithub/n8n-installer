@@ -30,9 +30,9 @@ line() {
 
 # Show menu
 show_menu() {
+    clear
     echo -e "${CYAN}By --> Peyman * Github.com/Ptechgithub * ${RESET}"
     echo ""
-	clear
 	echo -e "${YELLOW}╔══════════════════════════════════════════╗${RESET}"
 	echo -e "${YELLOW}║${CYAN}            n8n Installer Menu            ${YELLOW}║${RESET}"
 	echo -e "${YELLOW}╠══════════════════════════════════════════╣"
@@ -118,7 +118,7 @@ install_n8n() {
 	mkdir -p "$PROJECT_DIR"
 	cd "$PROJECT_DIR" || error_exit "Failed to enter directory"
 
-	# Generate docker-compose.yml without .env file, all env vars inline
+	# Generate docker-compose.yml
 	if [ "$USE_DOMAIN" = true ]; then
 		mkdir -p letsencrypt
 		touch letsencrypt/acme.json
