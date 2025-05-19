@@ -14,6 +14,7 @@
 ```bash
 bash <(curl -fsSL https://raw.githubusercontent.com/Ptechgithub/n8n-installer/main/n8n.sh)
 ```
+![33](https://github.com/Ptechgithub/configs/blob/main/media/33.jpg)
 
 ## پیش‌نیازها
 
