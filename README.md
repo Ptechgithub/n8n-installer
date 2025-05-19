@@ -12,7 +12,7 @@
 ## نصب سریع
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/Ptechgithub/n8n/main/n8n.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/Ptechgithub/n8n-installer/main/n8n.sh)
 ```
 
 ## پیش‌نیازها
