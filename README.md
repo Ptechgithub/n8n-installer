@@ -19,7 +19,7 @@ bash <(curl -fsSL https://raw.githubusercontent.com/Ptechgithub/n8n-installer/ma
 
 - سیستم عامل Ubuntu و سایر توزیع ها 
 - دسترسی به `root` یا `sudo`
-- دامنه معتبر (اختیاری، برای SSL 
+- دامنه معتبر (اختیاری، برای SSL )
 
 ## آدرس دسترسی
 
